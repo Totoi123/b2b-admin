@@ -1,4 +1,4 @@
-# flutter_web_dashboard
+# B2B Admin Dashboard
 
 A new Flutter project.
 
